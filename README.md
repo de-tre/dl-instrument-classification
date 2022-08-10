@@ -1,5 +1,5 @@
 # dl-instrument-classification
 DL CNN implementation.  
-Using the Philharmonia dataset: harmonia.co.uk/resources/sound-samples/  
+Using the <a href="https://philharmonia.co.uk/resources/sound-samples/">Philharmonia dataset</a>
 One has to convert the audiofiles from mp3 to wav first.  
-The audio folder should be /all_samples_wav/
+The final audio folder should be /all_samples_wav/
