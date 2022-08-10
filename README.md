@@ -1,5 +1,5 @@
 This is the main notebook. Note that the /all_samples/ folder contains mp3 files, which have to be converted to wav first.  
-Convert mp3 to wav.ipynb takes care of this - the final audio folder should be /all_samples_wav/
+Running Convert mp3 to wav.ipynb takes care of this - the final audio folder should be /all_samples_wav/
 
 # Import libraries
 
