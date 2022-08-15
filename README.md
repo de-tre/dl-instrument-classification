@@ -4,8 +4,8 @@ Running `Convert mp3 to wav.ipynb` takes care of this - the final audio folder s
 The trained model has been exported to Javascript. See `cnn_philharmonia.h5`  
   
 ***NOTE***:  
-The rendered confusion matrix uses black font, which does not mix well with the dark Github scheme.  
-Better open it in a new tab: [Click](https://raw.githubusercontent.com/de-tre/dl-instrument-classification/main/README_files/README_58_0.png)
+The rendered final confusion matrix uses black font, which does not mix well with the dark Github scheme.  
+For reference, better open it in a new tab: [Click](https://raw.githubusercontent.com/de-tre/dl-instrument-classification/main/README_files/README_58_0.png)
 
 # Import libraries
 
