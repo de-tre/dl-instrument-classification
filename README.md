@@ -1,7 +1,11 @@
 This is the main notebook. Note that the `/all_samples/` folder contains `mp3` files once downloaded from the website.  
 They have to be converted to `wav` first.  
 Running `Convert mp3 to wav.ipynb` takes care of this - the final audio folder should then be `/all_samples_wav/`  
-The trained model has been exported to Javascript. See `cnn_philharmonia.h5`
+The trained model has been exported to Javascript. See `cnn_philharmonia.h5`  
+  
+***NOTE***:  
+The rendered confusion matrix uses black font, which does not mix well with the dark Github scheme.  
+Better open it in a new tab: [Click](https://raw.githubusercontent.com/de-tre/dl-instrument-classification/main/README_files/README_58_0.png)
 
 # Import libraries
 
